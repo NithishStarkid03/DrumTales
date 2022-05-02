@@ -18,11 +18,11 @@ button{
   font-size: 3.5rem;
   background-color: #F9FFA4;
 }
-.container{
-  padding-top: 5%;
+.Container{
+  padding-top: 7%;
 }
 .board{
-  margin: 5% auto;
+  margin: 10% auto 0;
 }
 .W{
   background-image: url('images/tom1.png');
